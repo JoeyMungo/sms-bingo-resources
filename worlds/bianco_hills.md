@@ -8,6 +8,8 @@ Bianco doesn't have any episode-specific blues. If a blue coin appears in an epi
 
 ### Episode 1/2 ###
 Total Available Blues: 14
+
+Total Available Blues Up To This Point: 14
 - at the of river (Village side)
 - the M graffiti side of the wall (in the Village)
 - the M graffiti on the back of a house (in the Village)
@@ -25,23 +27,31 @@ Total Available Blues: 14
 
 ### Episode 3 ###
 Total Available Blues: 17
+
+Total Available Blues Up To This Point: 17
 - clean a Pianta (his location varies by mission)
 - defeat the Pokey atop the Big Windmill
 - spray the top of a tree in the Lake area
 
 ### Episode 4 ###
 Total Available Blues: 20
+
+Total Available Blues Up To This Point: 20
 - under the bridge leading to the Big Windmill
 - defeat the Pokey on the ledge near the Hillside Cave area
 - on top of a mini-windmill near the Big Windmill
 
 ### Episode 5 ###
 Total Available Blues: 22
+
+Total Available Blues Up To This Point: 22
 - on the wooden platforms near Petey Piranha's second location
 - clean the Pianta on top of the wall dividing the Village and Lake areas
 
 ### Episode 6 ###
 Total Available Blues: 26
+
+Total Available Blues Up To This Point: 26
 - in the air under a mini-windmill behind the house with Blue Coin 4
 - spray the platform where Petey Piranha sleeps in Episode 5
 - underwater in the Lake area (to the left of the Big Windmill)
@@ -49,13 +59,43 @@ Total Available Blues: 26
 
 ### Episode 7 ###
 Total Available Blues: 28
+
+Total Available Blues Up To This Point: 28
 - the O graffiti on the house near the Hover Nozzle box
 - the O graffiti near an M graffiti (Blue Coin 3)
 
 ### Episode 8 ###
 Total Available Blues: 30
+
+Total Available Blues Up To This Point: 30
 - eat a blue butterfly with Yoshi (in the Village area)
 - eat the bees inside a beehive with Yoshi (in the Lake area)
+
+### Types of Blue Coins ###
+#### Blue Birds (1) ####
+- on the platform where Bianco 4's Shine spawns [ep. 6-8]
+
+#### Butterflies (1) ####
+- near the building with the last Bianco 4 Red Coin location [ep. 8]
+
+#### Enemies (3) ####
+- Pokey (on top of Big Windmill) [ep. 3-8]
+- Pokey (near Hillside Cave entrance) [ep. 4-8]
+- Bees (on the trees in the Lake area) [ep. 8]
+
+#### Linked Pairs (2) ####
+- X graffiti (on wall dividing Village and Lake areas) [ep. 1-8]
+- O graffiti (in the Village area) [ep. 7-8]
+
+#### M Graffitis (4) ####
+- on the side of the wall dividing the Village and Lake areas [ep. 1-8]
+- on the back of a building in the Village area [ep. 1-8]
+- on the top of the wall dividing the Village and Lake areas [ep. 1-8]
+- at the base of the Big Windmill [ep. 1-8]
+
+#### NPCs (2) ####
+- Moves depending on episode [ep. 3-8]
+- atop the tower set in the wall near spawn [ep. 5-8]
 
 ## Nozzles ##
 
