@@ -142,6 +142,8 @@ TODO: Not sure if 100s is possible in episode 7 or 8.
 ### Episode 8 ###
 
 ## Misc./Bingo Specific Strats ##
+### Pianta Early ###
+
 ### Pianta 3 Damageless ###
 #### Beginner ####
 

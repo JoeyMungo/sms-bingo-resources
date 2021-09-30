@@ -157,3 +157,5 @@ There are no nozzles available in Sirena Beach.
 ## Misc./Bingo Specific Strats ##
 There are no coins in the Sirena 4 secret, so the 100 coin in a
 secret goal cannot be completed in Sirena 4.
+
+### Sirena Whenevers ###
