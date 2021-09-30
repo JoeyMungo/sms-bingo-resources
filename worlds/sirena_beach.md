@@ -111,6 +111,30 @@ Total Available Blues Up To This Point: 30
 #### Episode-specific ####
 Blue coins in the casino are not available in this episode.
 
+### Types of Blue Coins ###
+#### Blue Birds (0) ####
+None
+
+#### Butterflies (0) ####
+None
+
+#### Enemies (1) ####
+- Boo (in the attic) [ep. 4]
+
+#### Linked Pairs (2) ####
+- Triangle graffiti (on the first floor and the second floor) [ep. 7-8]
+- X graffiti (on the second floor and the third floor) [ep. 7-8]
+
+#### M Graffitis (4) ####
+- above the door inside the Casino [ep. 5]
+- on a wall outside the Hotel [ep. 7-8]
+- on the wall on the third floor [ep. 7-8]
+- on the wall in the center of the attic [ep. 7-8]
+
+#### NPCs (4) ####
+- 2 nokis on the right side if facing the hotel [ep. 1, 6]
+- 2 additional nokis hidden in the goop [ep. 6]
+
 ## Nozzles ##
 There are no nozzles available in Sirena Beach.
 

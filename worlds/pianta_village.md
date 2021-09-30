@@ -89,6 +89,32 @@ Total Available Blues Up To This Point: 30
 #### Episode-specific ####
 - the blue bird flying around the Rocket Nozzle box
 
+### Types of Blue Coins ###
+#### Blue Birds (1) ####
+- near the Rocket Nozzle box on the central tree [ep. 8]
+
+#### Butterflies (1) ####
+- on the mushroom next to the Fruit Tree [ep. 5]
+
+#### Enemies (2) ####
+- Bees (at the Village entrance) [ep. 5]
+- Bees (under the tree at the Hot Springs) [ep. 5]
+
+#### Linked Pairs (1) ####
+- X graffiti (on the Pianta Tree and near the coconut tree) [ep. 8]
+
+#### M Graffitis (6) ####
+- behind the start of the level [ep. 1-8]
+- under the Village [ep. 1-8]
+- on a wall at the right side of the Village [ep. 1-8]
+- on a wall at the left side of the Village [ep. 1-8]
+- next to the Gold Mushroom [ep. 3]
+- under the goop near the Village entrance [ep. 3]
+
+#### NPCs (9) ####
+- on fire on the right side of the map [ep. 3]
+- there are 8 adult piantas who all give coins [ep. 6]
+
 ## Nozzles ##
 
 ### Rocket Nozzle ###

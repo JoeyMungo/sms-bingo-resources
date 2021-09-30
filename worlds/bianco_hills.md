@@ -71,6 +71,32 @@ Total Available Blues Up To This Point: 30
 - eat a blue butterfly with Yoshi (in the Village area)
 - eat the bees inside a beehive with Yoshi (in the Lake area)
 
+### Types of Blue Coins ###
+#### Blue Birds (1) ####
+- on the platform where Bianco 4's Shine spawns [ep. 6-8]
+
+#### Butterflies (1) ####
+- near the building with the last Bianco 4 Red Coin location [ep. 8]
+
+#### Enemies (3) ####
+- Pokey (on top of Big Windmill) [ep. 3-8]
+- Pokey (near Hillside Cave entrance) [ep. 4-8]
+- Bees (on the trees in the Lake area) [ep. 8]
+
+#### Linked Pairs (2) ####
+- X graffiti (on wall dividing Village and Lake areas) [ep. 1-8]
+- O graffiti (in the Village area) [ep. 7-8]
+
+#### M Graffitis (4) ####
+- on the side of the wall dividing the Village and Lake areas [ep. 1-8]
+- on the back of a building in the Village area [ep. 1-8]
+- on the top of the wall dividing the Village and Lake areas [ep. 1-8]
+- at the base of the Big Windmill [ep. 1-8]
+
+#### NPCs (2) ####
+- Moves depending on episode [ep. 3-8]
+- atop the tower set in the wall near spawn [ep. 5-8]
+
 ## Nozzles ##
 
 ### Rocket Nozzle ###

@@ -101,6 +101,32 @@ Total Available Blues: 23
 
 Total Available Blues Up To This Point: 30
 
+### Types of Blue Coins ###
+#### Blue Birds (2) ####
+- near the Yoshi-Go-Round [ep. 1, 3, 5-8]
+- atop the gazebo near the Roller Coaster [ep. 1, 3, 5-8]
+
+#### Butterflies (3) ####
+- near the big Sunflower [ep. 1-8]
+- near the big Sunflower [ep. 1-8]
+- on a sandy platform near the Yoshi-Go-Round [ep. 6]
+
+#### Enemies (1) ####
+- Strollin' Stu Tower (behind the Ferris Wheel) [ep. 1, 3, 5-8]
+
+#### Linked Pairs (3) ####
+- O graffiti (on the Ferris Wheel) [ep. 1, 3, 5-8]
+- Triangle graffiti (near the bananas) [ep. 1, 3, 5-8]
+- X graffiti (on the Pianta Tree and near the coconut tree) [ep. 1, 3, 5-8]
+
+#### M Graffitis (3) ####
+- on a wall near the Clam Ride [ep. 1, 3, 5-8]
+- on the wall behind the Ferris Wheel [ep. 1, 3, 5-8]
+- on a sandy platform behind the Ferris Wheel [ep. 1, 3, 5-8]
+
+#### NPCs (0) ####
+None
+
 ## Nozzles ##
 There are no rocket nozzles in Pinna Park.
 

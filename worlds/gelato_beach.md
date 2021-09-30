@@ -105,6 +105,27 @@ Total Available Blues: 23
 
 Total Available Blues Up To This Point: 30
 
+### Types of Blue Coins ###
+#### Blue Birds (2) ####
+- Near Il Piantissimo's flag location [ep. 1-8]
+- Near Il Piantissimo's flag location [ep. 1-8]
+
+#### Butterflies (0) ####
+None
+
+#### Enemies (2) ####
+- Red Cataquack (on the beach) [ep. 1-4]
+- Blue Cataquack (in a tree near the Sand Bird Tower) [ep. 5-8]
+
+#### Linked Pairs (1) ####
+- Triangle graffiti [ep. 1-8]
+
+#### M Graffitis (1) ####
+- On the cliff wall next to Rocket Nozzle box [ep. 1-8]
+
+#### NPCs (0) ####
+None
+
 ## Nozzles ##
 
 ### Rocket Nozzle ###

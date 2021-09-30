@@ -89,6 +89,36 @@ Total Available Blues Up To This Point: 30
 #### Episode-specific ####
 - eat the blue butterfly group near the Yoshi egg with Yoshi
 
+### Types of Blue Coins ###
+#### Blue Birds (0) ####
+None
+
+#### Butterflies (1) ####
+- next to the Yoshi egg [ep. 8]
+
+#### Enemies (4) ####
+- Spider (on the first ship) [ep. 3-8]
+- Spider (on the first ship) [ep. 3-8]
+- Spider (on the wall near Ricco Tower) [ep. 3-8]
+- Blooper (inside the Shine Cage) [ep. 4-8]
+
+#### Linked Pairs (1) ####
+- X graffiti (on Ricco Tower and near Gooper Blooper) [ep. 1-8]
+
+#### M Graffitis (9) ####
+- under the goop in the first ship [ep. 1]
+- on the side of the first ship [ep. 1-8]
+- on the side of the warehouse at the start of the level [ep. 1-8]
+- on top of the warehouse at the start of the level [ep. 1-8]
+- under the goop next to Ricco Tower [ep. 1]
+- on the building near the fountain [ep. 1-8]
+- on the wall above the buildings near the fountain [ep. 1-8]
+- on the platforms near Ricco 8 Shine [ep. 1-8]
+- on the wall near Ricco 8 Shine [ep. 1-8]
+
+#### NPCs (0) ####
+None
+
 ## Nozzles ##
 
 ### Rocket Nozzle ###

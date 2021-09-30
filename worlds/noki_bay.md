@@ -85,6 +85,25 @@ Total Available Blues: 24
 
 Total Available Blues Up To This Point: 30
 
+### Types of Blue Coins ###
+#### Blue Birds (0) ####
+None
+
+#### Butterflies (0) ####
+None
+
+#### Enemies (0) ####
+None
+
+#### Linked Pairs (1)  ####
+- O graffiti (near the raccoon's hut and at base of the waterfall) [ep. 6]
+
+#### M Graffitis (1) ####
+- Between the two shafts leading to Noki 2 boss battle [ep. 1-8]
+
+#### NPCs (0) ####
+None
+
 ## Nozzles ##
 
 ### Rocket Nozzle ###
