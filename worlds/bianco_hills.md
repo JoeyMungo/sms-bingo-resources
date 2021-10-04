@@ -125,6 +125,17 @@ Gets 18 blues in Bianco 4, assumes M by windmill in Episode 1/2
 TODO Add easier route
 
 ## 100 Coin Routes ##
+
+### Viable 100s Ordered by Speed ###
+
+*Times based off [IL](https://docs.google.com/spreadsheets/d/12wDUXjLqmcUuWSEXWc1fHNJc24KlfyCh0pvibZYEQM0/edit#gid=903730331) & [Misc IL Sheet](https://docs.google.com/spreadsheets/d/12wDUXjLqmcUuWSEXWc1fHNJc24KlfyCh0pvibZYEQM0/edit#gid=757432211)*
+|Episode | Time  |
+|----|-----|
+|  Ep 6 | [2:04.01](https://www.youtube.com/watch?v=a8gg-yjS79E) | 
+| Ep 3 | [2:08.88](https://www.youtube.com/watch?v=SwRBC6MocXg) |
+| Ep 4 | [2:18.89](https://www.youtube.com/watch?v=cY4UAY0wuck) |
+| Ep 1 | [3:17.52](https://www.youtube.com/watch?v=Qu8uGbGvejM) |
+
 TODO ask Sid
 
 ## Misc. ##
